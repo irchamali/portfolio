@@ -12,3 +12,5 @@
 |  7  | Business Web - Fanjoyo Group                        | CodeIgniter 3, Bootstrap 4                      | https://fanjoyogroup.com              | 2020 |
 |  8  | Company Profile - LKTS Boyolali                     | CodeIgniter 3, Bootstrap 4                      | https://lkts.org                      | 2021 |
 |  9  | News - NU Jombang online - x Jombangdev             | Laravel                                         | https://jombang.nu.or.id              | 2021 |
+|  10 | Web Kampus Unusia Jakarta                           | Codeigniter 3, Bootstrap 4                      | https://unusia.ac.id                  | 2021 |
+  
