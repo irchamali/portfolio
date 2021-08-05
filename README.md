@@ -12,8 +12,10 @@
 |  7  | Business Web - Fanjoyo Group                        | CodeIgniter 3, Bootstrap 4                      | https://fanjoyogroup.com              | 2020 |
 |  8  | Company Profile - LKTS Boyolali                     | CodeIgniter 3, Bootstrap 4                      | https://lkts.org                      | 2021 |
 |  9  | News - NU Jombang online - x Jombangdev             | Laravel 6                                       | https://jombang.nu.or.id              | 2021 |
-|  11 | Web Prodi TI - Unusia                               | Laravel 6, Bootstrap 4                          | https://ti.unusia.ac.id               | 2021 |
-|  12 | Web Fakultas Teknik - Unusia                        | Codeigniter 3, Bootstrap 5                      | https://ftik.unusia.ac.id             | 2021 |
-|  13 | International Symposium - Unusia                    | Codeigniter 3, Bootstrap 5                      | https://symposium.unusia.ac.id        | 2021 |
-|  14 | POROZ Web                                           | Codeigniter 3, Bootstrap 5                      | https://poroz.id                      | 2021 |
+|  10 | Redesign Web Prodi Teknik Informatika               | Laravel 6, Bootstrap 4                          | https://ti.unusia.ac.id               | 2021 |
+|  11 | Redesign Web Prodi Teknologi Agroindustri           | Laravel 6, Bootstrap 4                          | https://agro.unusia.ac.id             | 2021 |
+|  12 | Redesign Web Prodi Teknik Industri                  | Laravel 6, Bootstrap 4                          | https://industri.unusia.ac.id         | 2021 |
+|  13 | Web Fakultas Teknik - Unusia                        | Codeigniter 3, Bootstrap 5                      | https://ftik.unusia.ac.id             | 2021 |
+|  14 | International Symposium - Unusia                    | Codeigniter 3, Bootstrap 5                      | https://symposium.unusia.ac.id        | 2021 |
+|  15 | POROZ Web                                           | Codeigniter 3, Bootstrap 5                      | https://poroz.id                      | 2021 |
   
