@@ -17,6 +17,6 @@
 |  12 | Redesign Web Prodi Teknik Industri                  | Laravel 6, Bootstrap 4                          | https://industri.unusia.ac.id         | 2021 |
 |  13 | Web Fakultas Teknik - Unusia                        | Codeigniter 3, Bootstrap 5                      | https://ftik.unusia.ac.id             | 2021 |
 |  14 | International Symposium - Unusia                    | Codeigniter 3, Bootstrap 5                      | https://symposium.unusia.ac.id        | 2021 |
-|  15 | POROZ Web                                           | Codeigniter 3, Bootstrap 5                      | https://poroz.id                      | 2021 |
+|  15 | Perkumpulan Organisasi Pengelola Zakat (POROZ)      | Codeigniter 3, Bootstrap 5                      | https://poroz.id                      | 2021 |
 |  16 | Pergerakan Mahasiswa Islam Indonesia                | Codeigniter 3, Bootstrap 5                      | https://www.pmii.id                   | 2021 |
-  
+|  17 | Poros Sahabat Nusantara (POSNU)                     | Codeigniter 3, Bootstrap 5                      | https://posnu.id                      | 2021 |  
