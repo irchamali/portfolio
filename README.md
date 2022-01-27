@@ -20,3 +20,4 @@
 |  15 | Perkumpulan Organisasi Pengelola Zakat (POROZ)      | Codeigniter 3, Bootstrap 5                      | https://poroz.id                      | 2021 |
 |  16 | Pergerakan Mahasiswa Islam Indonesia                | Codeigniter 3, Bootstrap 5                      | https://www.pmii.id                   | 2021 |
 |  17 | Poros Sahabat Nusantara (POSNU)                     | Codeigniter 3, Bootstrap 5                      | https://posnu.id                      | 2021 |  
+|  17 | Universitas Nahdlatul Ulama Indonesia (POSNU)       | Codeigniter 3, Bootstrap 5                      | https://unusia.ac.id                  | 2022 |
