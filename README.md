@@ -18,6 +18,6 @@
 |  13 | Web Fakultas Teknik - Unusia                        | Codeigniter 3, Bootstrap 5                      | https://ftik.unusia.ac.id             | 2021 |
 |  14 | International Symposium - Unusia                    | Codeigniter 3, Bootstrap 5                      | https://symposium.unusia.ac.id        | 2021 |
 |  15 | Perkumpulan Organisasi Pengelola Zakat (POROZ)      | Codeigniter 3, Bootstrap 5                      | https://poroz.id                      | 2021 |
-|  16 | Pergerakan Mahasiswa Islam Indonesia                | Codeigniter 3, Bootstrap 5                      | https://www.pmii.id                   | 2021 |
+|  16 | Pergerakan Mahasiswa Islam Indonesia (PMII)         | Codeigniter 3, Bootstrap 5                      | https://www.pmii.id                   | 2021 |
 |  17 | Poros Sahabat Nusantara (POSNU)                     | Codeigniter 3, Bootstrap 5                      | https://posnu.id                      | 2021 |  
-|  17 | Universitas Nahdlatul Ulama Indonesia (UNUSIA)      | Codeigniter 3, Bootstrap 5                      | https://unusia.ac.id                  | 2022 |
+|  18 | Universitas Nahdlatul Ulama Indonesia (UNUSIA)      | Codeigniter 3, Bootstrap 5                      | https://unusia.ac.id                  | 2022 |
