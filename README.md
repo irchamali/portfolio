@@ -21,4 +21,4 @@
 |  16 | Pergerakan Mahasiswa Islam Indonesia (PMII)         | Codeigniter 3, Bootstrap 5                      | https://www.pmii.id                   | 2021 |
 |  17 | Poros Sahabat Nusantara (POSNU)                     | Codeigniter 3, Bootstrap 5                      | https://posnu.id                      | 2021 |  
 |  18 | Universitas Nahdlatul Ulama Indonesia (UNUSIA)      | Codeigniter 3, Bootstrap 5                      | https://unusia.ac.id                  | 2022 |
-|  18 | Universitas Nahdlatul Ulama Indonesia (UNUSIA)      | Codeigniter 3, SwiperJS, scrollrevealjs         | https://pmb.unusia.ac.id              | 2022 |
+|  18 | Penerimaan Mahasiswa Baru UNUSIA                    | Codeigniter 3, SwiperJS, scrollrevealjs         | https://pmb.unusia.ac.id              | 2022 |
