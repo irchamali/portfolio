@@ -23,3 +23,4 @@
 |  18 | Universitas Nahdlatul Ulama Indonesia (UNUSIA)      | Codeigniter 3, MySQL          | https://unusia.ac.id                  | 2022 |
 |  19 | Penerimaan Mahasiswa Baru UNUSIA                    | Codeigniter 3, MySQL          | https://pmb.unusia.ac.id              | 2022 |
 |  20 | E-Voting UNUSIA                                     | Codeigniter 3, MySQL          | https://vote.unusia.ac.id             | 2022 |
+|  21 | Sistem Antrean Wisudawan UNUSIA                     | Codeigniter 3, MySQL          | https://wisuda.unusia.ac.id           | 2023 |
