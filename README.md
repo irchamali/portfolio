@@ -24,3 +24,4 @@
 |  19 | Penerimaan Mahasiswa Baru UNUSIA                    | Codeigniter 3, MySQL          | https://pmb.unusia.ac.id              | 2022 |
 |  20 | E-Voting UNUSIA                                     | Codeigniter 3, MySQL          | https://vote.unusia.ac.id             | 2022 |
 |  21 | Sistem Antrean Wisudawan UNUSIA                     | Codeigniter 3, MySQL          | https://wisuda.unusia.ac.id           | 2023 |
+|  22 | Katalog Buku - UNUSIA PRESS                         | Laravel 8, MySQL              | https://press.unusia.ac.id            | 2023 |
