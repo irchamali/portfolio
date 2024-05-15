@@ -27,3 +27,4 @@
 |  22 | Katalog Buku - UNUSIA PRESS                         | Laravel 8, MySQL              | https://press.unusia.ac.id            | 2023 |
 |  23 | Sistem Penjaminan Mutu Internal                     | CodeIgniter 4, MySQL          | https://lppmi.unusia.ac.id            | 2023 |
 |  24 | Sistem Informasi Perpustakaan UNUSIA                | CodeIgniter 4, MySQL          | https://perpustakaan.unusia.ac.id     | 2023 |
+|  25 | Web Prodi Teknik Informatika Unusia                 | CodeIgniter 4, MySQL          | https://ti.unusia.ac.id               | 2024 |
