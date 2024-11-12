@@ -1,5 +1,14 @@
-# portfolio
-#WebProjects #WebProgramming #MyPortfolio
+# Portfolio
+
+### Book Projects 
+
+| #   | TITLE                       | CATEGORY          | REPOSITORY                | PUBLISHER            	| YEAR |
+|-----|-----------------------------|------------------	|-------------------------- |----------------------	|------|
+|  1  | Dasar Pemrograman Web       | Technology  | [click here](https://repository.penerbitwidina.com/publications/569476/dasar-pemrograman-web)   | Penerbit Widina      	| 2024 |
+|  2  | Pengembangan Aplikasi Web   | Technology  | [click here](https://repository.penerbitwidina.com/id/publications/585050/buku-ajar-pengembangan-aplikasi-web) | Penerbit Widina	| 2024 |
+
+
+### Web Projects 
 
 | #   | NAME                                              	| TECHNOLOGY                   	| LINK                                 	| YEAR |
 |-----|---------------------------------------------------	|------------------------------	|--------------------------------------	|------|
