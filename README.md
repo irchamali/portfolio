@@ -2,10 +2,12 @@
 
 ### Book Projects 
 
-| #   | TITLE                       | CATEGORY          | REPOSITORY                | PUBLISHER            	| YEAR |
-|-----|-----------------------------|------------------	|-------------------------- |----------------------	|------|
-|  1  | Dasar Pemrograman Web       | Technology  | [click here](https://repository.penerbitwidina.com/publications/569476/dasar-pemrograman-web)   | Penerbit Widina      	| 2024 |
-|  2  | Pengembangan Aplikasi Web   | Technology  | [click here](https://repository.penerbitwidina.com/id/publications/585050/buku-ajar-pengembangan-aplikasi-web) | Penerbit Widina	| 2024 |
+| #   | TITLE                       | ISBN | ROLE     | REPOSITORY                | PUBLISHER            	| YEAR |
+|-----|-----------------------------|------| -------------|-------------------------- |----------------------	|------|
+|  1  | Dasar Pemrograman Web       | 978-623-500-333-7 | Author  | [click here](https://repository.penerbitwidina.com/publications/569476/dasar-pemrograman-web)   | Penerbit Widina      	| 2024 |
+|  2  | Pengembangan Aplikasi Web   | 978-623-500-498-3 | Author  | [click here](https://repository.penerbitwidina.com/id/publications/585050/buku-ajar-pengembangan-aplikasi-web) | Penerbit Widina	| 2024 |
+|  3  | Testing dan Implementasi Sistem   | 978-623-97737-5-5 | Editor  | [click here](https://press.unusia.ac.id/produk/8) | Unusia Press	| 2024 |
+|  4  | Komputer Grafik   | 978-623-8643-70-7 | Editor  | [click here](https://eduped.org/books/komputer-grafik/) | Edupedia Publisher	| 2024 |
 
 
 ### Web Projects 
