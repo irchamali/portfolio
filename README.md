@@ -4,16 +4,18 @@
 
 | #   | TITLE                       | ISBN | ROLE         | REPOSITORY                | PUBLISHER            	| YEAR |
 |-----|-----------------------------|------| -------------|-------------------------- |----------------------	|------|
-|  1  | Dasar Pemrograman Web       | 978-623-500-333-7 | Author  | [click here](https://repository.penerbitwidina.com/publications/569476/dasar-pemrograman-web)   | Penerbit Widina  | 2024 |
-|  2  | Pengembangan Aplikasi Web   | 978-623-500-498-3 | Author  | [click here](https://repository.penerbitwidina.com/id/publications/585050/buku-ajar-pengembangan-aplikasi-web) | Penerbit Widina	| 2024 |
-|  3  | Testing dan Implementasi Sistem   | 978-623-97737-5-5 | Editor  | [click here](https://press.unusia.ac.id/produk/8)       | Unusia Press	      | 2024 |
-|  4  | Komputer Grafik                   | 978-623-8643-70-7 | Editor  | [click here](https://eduped.org/books/komputer-grafik/) | Edupedia Publisher	| 2024 |
+|  5  | Dasar-Dasar Pemrograman Python  | 978-634-246-063-4 | Author  | [click here](https://repository.penerbitwidina.com/publications/619818/dasar-dasar-pemrograman-python)   | Penerbit Widina  | 2025 |
+|  4  | Dasar Pemrograman Web       | 978-623-500-333-7 | Author  | [click here](https://repository.penerbitwidina.com/publications/569476/dasar-pemrograman-web)   | Penerbit Widina  | 2024 |
+|  3  | Pengembangan Aplikasi Web   | 978-623-500-498-3 | Author  | [click here](https://repository.penerbitwidina.com/id/publications/585050/buku-ajar-pengembangan-aplikasi-web) | Penerbit Widina	| 2024 |
+|  2  | Testing dan Implementasi Sistem   | 978-623-97737-5-5 | Editor  | [click here](https://press.unusia.ac.id/produk/8)       | Unusia Press	      | 2024 |
+|  1  | Komputer Grafik                   | 978-623-8643-70-7 | Editor  | [click here](https://eduped.org/books/komputer-grafik/) | Edupedia Publisher	| 2024 |
 
 
 ### Web Projects 
 
 | #   | NAME                                              	| TECHNOLOGY                   	| LINK                                 	| YEAR |
 |-----|---------------------------------------------------	|------------------------------	|--------------------------------------	|------|
+|  28 | POROZ v.2.0                                         | CodeIgniter 4, MySQL          | https://poroz.id                      | 2025 |
 |  27 | Yayasan Sunan Gunung Jati                           | CodeIgniter 4, MySQL          | https://ysgj.or.id                    | 2025 |
 |  26 | Web Fakultas Hukum Unusia                           | CodeIgniter 4, MySQL          | https://fh.unusia.ac.id               | 2024 |
 |  25 | Web Prodi Teknik Informatika Unusia                 | CodeIgniter 4, MySQL          | https://ti.unusia.ac.id               | 2024 |
